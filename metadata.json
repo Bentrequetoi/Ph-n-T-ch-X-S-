@@ -1,0 +1,6 @@
+{
+  "name": "Phân Tích Xổ Số Đặc Biệt Miền Nam",
+  "description": "Hệ thống quản lý và phân tích chuyên sâu quan hệ đầu - cuối giữa các đài xổ số đặc biệt miền Nam qua nhiều kỳ, phát hiện quy luật và chu kỳ lặp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
